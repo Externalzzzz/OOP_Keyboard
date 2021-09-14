@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/" lang="images">
+        <file>images/about.ico</file>
+        <file>images/add string.ico</file>
+        <file>images/clear file.ico</file>
+        <file>images/delete string.ico</file>
+        <file>images/diagram.ico</file>
+        <file>images/exit.ico</file>
+        <file>images/main.ico</file>
+        <file>images/New.ico</file>
+        <file>images/no.ico</file>
+        <file>images/open.ico</file>
+        <file>images/refresh.ico</file>
+        <file>images/save.ico</file>
+        <file>images/yes.ico</file>
+        <file>images/eng.ico</file>
+        <file>images/rus.ico</file>
+        <file>images/sorting.ico</file>
+        <file>images/spanish.ico</file>
+    </qresource>
+</RCC>
